@@ -14,6 +14,8 @@ export interface UpdateTask{
     status: 'todo' | 'in-progress' | 'done',
 }
 
-export interface DeleteTask{
-    id: number,
+export interface RouteContext {
+  params: Promise<{
+    id: string;
+  }>;
 }
