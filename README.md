@@ -97,7 +97,7 @@ task-board/
 <p>Clone the repository:</p>
 
 <pre>
-git clone https://github.com/ishaNegi1/mini-task-board.git
+https://github.com/ishaNegi1/team-variance-task.git
 </pre>
 
 <p>Navigate into the project directory:</p>
